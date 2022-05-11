@@ -1,0 +1,15 @@
+01) Goto `https://developers.facebook.com`
+02) Login with facebook account
+03) Choose Getting start / Already signin click My-Apps
+04) Fill the details and continue
+05) Click Create App
+06) Choose app purpose and continue
+07) Fill the Provide basic information
+08) Select Settings
+09) Choose Basic and get copy of `App ID` and `App Secret`
+10) Done
+
+* After sign in as facebook account through the project who can see sign in details as below,
+	01) When developer sign in after get notification from facebook account.
+	    Or	
+	02) Login facebook social account --> Settings --> Apps & Websites --> Developer App name 
